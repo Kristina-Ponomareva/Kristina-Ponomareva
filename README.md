@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 🙋 Hi there! My name is Kristina ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) 
+## 🙋 Hi there! My name is Kristina <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) -->
+
 <!--
 **Kristina-Ponomareva/Kristina-Ponomareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

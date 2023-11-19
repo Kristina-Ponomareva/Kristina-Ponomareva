@@ -11,13 +11,13 @@
 <br />
 
 ### Languages and Tools:
- - **Python:** Pandas, Matplotlib, Seaborn, Plotly, SciPy, Numpy
+ 🔨 **Python:** Pandas, Matplotlib, Seaborn, Plotly, SciPy, Numpy
 
- - **Databases:** PostgreSQL, MySQL, Excel
+ 🛄 **Databases:** PostgreSQL, MySQL, Excel
 
- - **BI Tools:** Tableau, DataLens
+ 📑 **BI Tools:** Tableau, DataLens
 
-[Email]: ponomareowa.kristina@gmail.com
+[Email]: mailto:ponomareowa.kristina@gmail.com?
 [Telegram]: https://t.me/kris_pon
 [Linkedin]: https://www.linkedin.com/in/kristinaponomareva
 

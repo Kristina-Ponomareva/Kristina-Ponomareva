@@ -1,11 +1,12 @@
 ### Hi there! 👋
-## My name is Kristina. I'm Data Analyst!
+## My name is Kristina.
+## I'm Data Analyst!⚡
 
-#### [My Portfolio!](https://github.com/Kristina-Ponomareva/my_projects)
+#### [My Portfolio here!](https://github.com/Kristina-Ponomareva/my_projects)
 
 ### Connect with me:
 [<img align="left" alt="Kristina-Ponomareva | Twitter" width="22px" src="https://img.icons8.com/3d-fluency/94/telegram.png" />][Telegram]
-[<img align="left" alt="Kristina-Ponomareva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Kristina-Ponomareva | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/276/472/png-transparent-linkedin-computer-icons-blog-logo-watercolor-butterfly-angle-text-rectangle.png" />][Linkedin]
 <br />
 <br />
 

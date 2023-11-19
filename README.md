@@ -1,9 +1,7 @@
-#### Hi there! 👋
-### My name is Kristina⚡
-🔭 I’m currently working as freelancer
+### Hi there! 👋
+## My name is Kristina. I'm Data Analyst!⚡
 
 #### [My Portfolio here!](https://github.com/Kristina-Ponomareva/my_projects)
-<br />
 
 ### Connect with me:
 [<img align="left" alt="Kristina-Ponomareva | LinkedIn" width="30px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" />][Linkedin]

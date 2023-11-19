@@ -1,12 +1,12 @@
 ### Hi there! 👋
-## My name is Kristina.
-## I'm Data Analyst!⚡
+## My name is Kristina.  I'm Data Analyst!⚡
 
 #### [My Portfolio here!](https://github.com/Kristina-Ponomareva/my_projects)
 
 ### Connect with me:
+[<img align="left" alt="Kristina-Ponomareva | LinkedIn" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" />][Linkedin]
+[<img align="left" alt="Kristina-Ponomareva | Email " width="22px" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" />][Email]
 [<img align="left" alt="Kristina-Ponomareva | Twitter" width="22px" src="https://img.icons8.com/3d-fluency/94/telegram.png" />][Telegram]
-[<img align="left" alt="Kristina-Ponomareva | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/276/472/png-transparent-linkedin-computer-icons-blog-logo-watercolor-butterfly-angle-text-rectangle.png" />][Linkedin]
 <br />
 <br />
 
@@ -17,6 +17,7 @@
 
  - **BI Tools:** Tableau, DataLens
 
+[Email]: ponomareowa.kristina@gmail.com
 [Telegram]: https://t.me/kris_pon
 [Linkedin]: https://www.linkedin.com/in/kristinaponomareva
 
